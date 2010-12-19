@@ -1,0 +1,9 @@
+This is a first stab at integrating Structurama as a workflow into R.
+
+I'm not about to fire up a separate program to find out whether AML patients 
+have radically different background mutation rates by population, but if it 
+were as easy as feeding SAM/BAM files to an existing workflow... well, you 
+probably get the idea.
+
+I'm unspeakably lazy but I do like Dirichlet processes, and there you go.
+
