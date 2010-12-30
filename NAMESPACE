@@ -1,0 +1,2 @@
+useDynLib(rStructurama)
+exportPattern("^[[:alpha:]]+")
